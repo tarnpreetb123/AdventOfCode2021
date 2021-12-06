@@ -83,5 +83,5 @@ fn part_two(){
         }
     }
     let number_overlaps = grid.values().filter(|&&x| x > 1).count();
-    println!("Part 1: {:?}", number_overlaps);
+    println!("Part 2: {:?}", number_overlaps);
 }
