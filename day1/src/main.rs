@@ -30,7 +30,7 @@ fn part_one(){
 
     }
 
-    println!("{}", num_increase);
+    println!("Part 1: {}", num_increase);
 }
 
 fn part_two(){
@@ -62,6 +62,6 @@ fn part_two(){
 
     }
 
-    println!("{}", num_increase);
+    println!("Part 2: {}", num_increase);
 }
 

@@ -34,7 +34,7 @@ fn part_one() {
     }
 
     let total = num_depth*num_horizontal;
-    println!("Part one: {}", total);
+    println!("Part 1: {}", total);
 }
 
 fn part_two() {
@@ -65,5 +65,5 @@ fn part_two() {
     }
 
     let total = num_depth*num_horizontal;
-    println!("Part two: {}", total);
+    println!("Part 2: {}", total);
 }

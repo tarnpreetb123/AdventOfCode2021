@@ -67,6 +67,6 @@ fn get_polymer_score(steps:usize, part: &str) {
     counter_values.sort();
     let score:u64 = counter_values[counter_values.len()-1] - counter_values[0];
 
-    println!("{}, {} ", part, score);
+    println!("{}: {} ", part, score);
 
 }

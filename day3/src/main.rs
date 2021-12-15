@@ -42,7 +42,7 @@ fn part_one() {
     }
 
     let result = gamma*epison;
-    println!("Part one: {}", result);
+    println!("Part 1: {}", result);
 }
 
 fn part_two(){
@@ -117,5 +117,5 @@ fn part_two(){
     }
 
     let result = (binary_nums_oxygen.get(0).unwrap()) * (binary_nums_carbon.get(0).unwrap());
-    println!("Part two: {}", result);
+    println!("Part 2: {}", result);
 }
